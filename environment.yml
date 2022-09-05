@@ -3,5 +3,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - cling=0.5=cling_5
+  - cling=0.8=cling_8
 prefix: /home/phys2660/miniconda3/envs/cling
