@@ -1,0 +1,7 @@
+name: cling
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cling=0.5=cling_5
+prefix: /home/phys2660/miniconda3/envs/cling
