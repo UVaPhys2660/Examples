@@ -2,7 +2,7 @@ name: cling
 channels:
   - conda-forge
 dependencies:
-  - xeus-cling=0.13.0
+  - xeus-cling
   - notebook
   - rise
 
